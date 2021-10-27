@@ -10,8 +10,8 @@
 }
 
 .polygon {
-  width: 200px;
-  height: 200px;
+  width: 500rpx;
+  height: 500rpx;
   margin-top: 20px;
 }
 

@@ -3,6 +3,7 @@
   <v-sign class='sign'/>
   <v-progress class='progress' progress='0.8'/>
   <v-polygon class='polygon' polygons='{{polygons}}' texts='{{texts}}'/>
+  <v-polygon-custom class='polygon' polygons='{{polygons}}' texts='{{texts}}'/>
   <v-calibration  class='calibration' progress="0.6"/>
   <button bindtap="onDialog">弹出底部对话框</button>
 </view>

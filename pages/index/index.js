@@ -8,8 +8,8 @@ Page({
     userInfo: {},
     hasUserInfo: false,
     canIUse: wx.canIUse('button.open-type.getUserInfo'),
-    polygons: [0.5, 0.8, 0.3, 0.6, 0.1],
-    texts: ["力量", "敏捷", "智力"]
+    polygons: [0.85, 0, 0.63, 0, 0, 0.63, 0, 0.8],
+    texts: ["1", "2", "3","4", "5", "6","7","8"]
   },
   //事件处理函数
   bindViewTap: function() {
